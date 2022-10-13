@@ -6,6 +6,6 @@ MY CLONE WEB AT W3SCHOOLS TEMPLATES: THE BAND - The first project of mine
     4. https://fullstack.edu.vn
 - Tools: Visual Studio Code, Git, Google Chrome...
 - Languages: HTML, CSS, Javascript
-- Preview: https://nhutlin.github.io/W3_The_band/band.html - just run in PC (no responsive on mobile)
+- Preview: https://nhutlin.github.io/W3_The_band/band.html - just should be ran on PC (no responsive on mobile)
 
 ![image](https://user-images.githubusercontent.com/97160162/195613393-6b12b6ec-986c-4fbb-9a88-9c5e344c4194.png)
